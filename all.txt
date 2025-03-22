@@ -17,3 +17,4 @@ usertools
 truthordare
 birthdaywish
 fgpt
+systeminfo
